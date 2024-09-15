@@ -103,7 +103,9 @@ export default function Home() {
           <div className="md:col-span-2 space-y-8">
             <Card className="bg-white shadow">
               <CardContent className="p-6">
-                <h2 className="text-2xl font-bold mb-4">Company's Business</h2>
+                <h2 className="text-2xl font-bold mb-4">
+                  Company&apos;s Business
+                </h2>
                 <div className="space-y-4">
                   <div>
                     <h3 className="font-semibold mb-2">Company Type</h3>
